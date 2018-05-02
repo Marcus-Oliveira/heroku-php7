@@ -1,7 +1,6 @@
 {
     "require": {
         "php": "~7",
-        "phalcon": "~3"
+        "ext-phalcon": "~3"
     }
 }
-.
